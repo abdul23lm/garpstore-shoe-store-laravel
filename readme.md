@@ -84,12 +84,12 @@ Database Configuration	on .env file
 
 ## Usage
 
-Administrator login
-username	: admin@gmail.com
-password	: admin123
+1. Administrator login
+- username	: admin@gmail.com
+- password	: admin123
 
-User login
-username	: user@gmail.com
-password	: user123
+2. User login
+- username	: user@gmail.com
+- password	: user123
 
 
