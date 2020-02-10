@@ -69,17 +69,18 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 2. Laravel 5.6 atau lebih
 3. Composer
 
-## Database Requirement
-Database			 : garpstore.sql
-Database Directory	 : DB File Sql/garpstore.sql
+## Database Configuration
+- Database			 : garpstore.sql
+- Database Directory	 : DB File Sql/garpstore.sql
+
 Database Configuration	on .env file
 
-DB_CONNECTION=mysql
-DB_HOST=127.0.0.1
-DB_PORT=3306
-DB_DATABASE=garpstore
-DB_USERNAME=root
-DB_PASSWORD=
+- DB_CONNECTION=mysql
+- DB_HOST=127.0.0.1
+- DB_PORT=3306
+- DB_DATABASE=garpstore
+- DB_USERNAME=root
+- DB_PASSWORD=
 
 ## Usage
 
