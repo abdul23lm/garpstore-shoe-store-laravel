@@ -63,3 +63,32 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Requirements
+1. PHP 7.1 atau lebih
+2. Laravel 5.6 atau lebih
+3. Composer
+
+## Database Requirement
+Database			 : garpstore.sql
+Database Directory	 : DB File Sql/garpstore.sql
+Database Configuration	on .env file
+
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=garpstore
+DB_USERNAME=root
+DB_PASSWORD=
+
+## Usage
+
+Administrator login
+username	: admin@gmail.com
+password	: admin123
+
+User login
+username	: user@gmail.com
+password	: user123
+
+
