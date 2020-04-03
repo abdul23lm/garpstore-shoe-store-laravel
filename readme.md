@@ -65,8 +65,8 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 ## Requirements
-1. PHP 7.1 atau lebih
-2. Laravel 5.6 atau lebih
+1. PHP 7.1 or latest
+2. Laravel 5.6 or latest
 3. Composer
 
 ## Database Configuration
